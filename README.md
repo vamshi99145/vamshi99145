@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://x.com/serlavamshi" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/serlavamshi?logo=twitter&style=for-the-badge" alt="https://x.com/serlavamshi" /></a> </p>
 
-- 🔭 I’m currently working on **Novamodule**
+- 🔭 I’m currently working as a Software Engineer at **Novamodule**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
